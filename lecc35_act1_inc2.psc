@@ -1,4 +1,4 @@
-Algoritmo Codigo10
+Algoritmo lecc35_act1_inc2
     Definir precio, pago, cambio Como Entero
     Definir b200, b100, b50, b20, monedas Como Entero
 
