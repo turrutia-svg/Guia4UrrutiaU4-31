@@ -1,4 +1,4 @@
-Algoritmo lecc35_act1_inc3
+Algoritmo lecc32_act1_inc1  
     Escribir "Ingrese la cantidad en metros:"
     Leer metros
     Escribir "Seleccione la unidad a convertir (a. Milimetros, b. Centimetros, c. Decimetros, d. Hectometros, e. Kilometros):"
